@@ -1,5 +1,7 @@
 package com.example.coolweather.util;
 
+import java.util.concurrent.TimeUnit;
+
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 
